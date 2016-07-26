@@ -1,0 +1,68 @@
+name = Adultmart
+description = "Adultmart - Responsive Multi-Purpose Drupal Theme"
+core = 7.x
+base theme = drupalexp
+
+regions[content] = Content
+regions[call_us] = Call Us
+regions[socials] = Socials
+regions[credit_card] = Credit Card
+regions[logo] = Logo
+regions[search] = Search
+regions[banner] = Banner
+
+
+regions[breadcrumb] = Breadcrumb
+regions[page_title] = Page Title
+
+regions[navigation] = Navigation
+regions[top_navigation] = Top Navigation
+
+regions[copyright] = Copyright
+regions[right_sidebar] = Right sidebar
+regions[left_sidebar] = Left sidebar
+
+
+
+;Extra regions
+regions[user1] = User 1
+regions[user2] = User 2
+regions[user3] = User 3
+regions[user4] = User 4
+regions[user5] = User 5
+regions[user6] = User 6
+regions[user7] = User 7
+regions[user8] = User 8
+regions[user9] = User 9
+regions[user10] = User 10
+regions[user11] = User 11
+regions[user12] = User 12
+regions[user13] = User 13
+regions[user14] = User 14
+regions[user15] = User 15
+regions[user16] = User 16
+regions[user17] = User 17
+regions[user18] = User 18
+regions[user19] = User 19
+regions[user20] = User 20
+
+lessc[] = lessc/style.less
+lessc[] = lessc/style-rtl.less
+lessc[] = lessc/mixin.less
+lessc[] = lessc/topbar.less
+lessc[] = lessc/mainmenu.less
+lessc[] = lessc/breadcrumb.less
+lessc[] = lessc/footer.less
+lessc[] = lessc/portfolio.less
+lessc[] = lessc/blog.less
+lessc[] = lessc/pages.less
+lessc[] = lessc/testimonial.less
+lessc[] = lessc/general.less
+lessc[] = lessc/block.less
+lessc[] = lessc/bxslider.less
+lessc[] = lessc/shortcode.less
+lessc[] = lessc/quicksettings.less
+
+lessc[] = lessc/custom.less
+
+scripts[] = assets/scripts/evolve.js
