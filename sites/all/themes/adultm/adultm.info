@@ -66,3 +66,4 @@ lessc[] = lessc/quicksettings.less
 lessc[] = lessc/custom.less
 
 scripts[] = assets/scripts/evolve.js
+scripts[] = assets/scripts/custom.js
